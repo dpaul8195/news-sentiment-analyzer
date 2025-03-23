@@ -1,0 +1,9 @@
+streamlit
+requests
+pandas
+flask
+beautifulsoup4
+gtts
+rake-nltk
+vaderSentiment
+googletrans==4.0.0-rc1
