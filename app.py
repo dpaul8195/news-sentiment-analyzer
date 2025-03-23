@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # Flask backend URL
-API_URL = "http://127.0.0.1:5000"
+API_URL = "https://dpaul8195-news-sentiment-analyzer.hf.space"
 
 st.set_page_config(layout="wide")  # Better layout handling
 
@@ -129,3 +129,4 @@ if st.button("Analyze News"):
             st.error("❌ API Connection Error: Unable to reach the backend. Ensure Flask is running.")
         except Exception as e:
             st.error(f"❌ Unexpected Error: {str(e)}")
+
