@@ -1,3 +1,12 @@
+title: News Sentiment Analyzer
+emoji: 🐢
+colorFrom: blue
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.43.2
+app_file: app.py
+pinned: false
+
 # News Summarization & Sentiment Analysis with Hindi TTS  
 ### A Web-Based Tool for Analyzing News Sentiment and Generating Hindi Audio Summaries  
 
