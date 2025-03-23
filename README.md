@@ -179,9 +179,8 @@ pip install gtts
 ## License  
 This project is **open-source** under the **MIT License**. Feel free to modify and contribute!  
 
-🔗 **GitHub Repo:** [https://github.com/yourusername/news-sentiment-analyzer](https://github.com/yourusername/news-sentiment-analyzer)  
+🔗 **GitHub Repo:** [https://github.com/dpaul8195/news-sentiment-analyzer](https://github.com/dpaul8195/news-sentiment-analyzer)  
 
 ---
 
-### 🔥 Built with ❤️ by [Your Name]  
-
+### 🔥 Built with ❤️ by **Debabrata Paul**  
