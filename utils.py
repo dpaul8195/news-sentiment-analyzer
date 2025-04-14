@@ -13,6 +13,7 @@ from collections import Counter
 
 nltk.download('punkt')
 nltk.download('stopwords')  # Needed for filtering keywords
+nltk.download('punkt_tab')
 from nltk.corpus import stopwords
 stop_words = set(stopwords.words('english'))
 
