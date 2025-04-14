@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from gtts import gTTS
 from rake_nltk import Rake
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-from googletrans import Translator
+# from googletrans import Translator
 import re
 import nltk
 from collections import Counter
