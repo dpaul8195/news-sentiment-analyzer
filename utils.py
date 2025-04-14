@@ -142,3 +142,4 @@ def text_to_speech_hindi(text):
     tts.write_to_fp(audio_buffer)
     audio_buffer.seek(0)
     return audio_buffer
+
