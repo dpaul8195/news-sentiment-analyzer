@@ -1,9 +1,9 @@
 streamlit
-requests
 pandas
-flask
+matplotlib
 beautifulsoup4
-gtts
+requests
+gTTS
 rake-nltk
 vaderSentiment
 googletrans==4.0.0-rc1
